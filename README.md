@@ -1,5 +1,5 @@
 # Ollama Anywhere README
-![Developers Digest GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2cwMzl2NmFwcWR4NjU1M3V5OTV2Z253MGd2dGx5cWt0eW01MGJjaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5Qc9jVHQKmS7bQUQCe/giphy.gif)
+![Developers Digest GIF](https://media.giphy.com/media/5Qc9jVHQKmS7bQUQCe/giphy.gif)
 
 
 
