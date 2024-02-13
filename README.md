@@ -1,4 +1,7 @@
 # Ollama Anywhere README
+![Developers Digest GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2cwMzl2NmFwcWR4NjU1M3V5OTV2Z253MGd2dGx5cWt0eW01MGJjaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5Qc9jVHQKmS7bQUQCe/giphy.gif)
+
+
 
 Ollama Anywhere is a proof of concept project designed to enable seamless interaction with Ollama and the LLM's you have installed being able to access from anywhere, using any device. This  allows users to leverage the power of models like Llama 2, Mistral, Mixtral, etc. That they have locally on their computer,  making them accessible for inference directly from your computer or device. The project is crafted with responsiveness in mind, ensuring a smooth user experience on any device, whether it's your phone, tablet, or laptop.
 
