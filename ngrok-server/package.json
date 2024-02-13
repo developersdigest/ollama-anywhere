@@ -1,0 +1,9 @@
+{
+  "name": "ngrok-ingress-server",
+  "module": "index.js",
+  "type": "module",
+  "dependencies": {
+    "@ngrok/ngrok": "^1.0.0",
+    "dotenv": "^16.4.3"
+  }
+}
