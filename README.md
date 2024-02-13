@@ -1,1 +1,1 @@
-# ollama-anywhere
+# Ollama Anywhere
